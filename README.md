@@ -1,3 +1,3 @@
-# badmin
+# admin
 
-an adventure in basic admin...
+basic scaffold
