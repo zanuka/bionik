@@ -1,3 +1,3 @@
-# basic admin
+# badmin
 
-Basically, an admin app scaffold.
+an adventure in basic admin...
