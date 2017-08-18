@@ -1,3 +1,3 @@
-# tracks
+# basic admin
 
-A web app designed for simple tracking.
+Basically, an admin app scaffold.
