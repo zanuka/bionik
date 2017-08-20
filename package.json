@@ -1,0 +1,34 @@
+{
+  "name": "bionic",
+  "version": "0.0.1",
+  "description": "Steve Austin needs an admin app, pronto.",
+  "main": "app.js",
+  "scripts": {
+    "dev": "node --harmony app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zanuka/bionic.git"
+  },
+  "keywords": [
+    "bionic",
+    "koa",
+    "admin",
+    "app",
+    "minimal"
+  ],
+  "author": "Mike Delucchi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zanuka/bionic/issues"
+  },
+  "homepage": "https://github.com/zanuka/bionic#readme",
+  "dependencies": {
+    "babel-register": "6.26.0",
+    "koa": "2.3.0",
+    "koa-route": "3.2.0"
+  },
+  "devDependencies": {
+    "babel-plugin-transform-async-to-generator": "6.24.1"
+  }
+}
