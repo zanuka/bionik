@@ -5,5 +5,4 @@ logs
 *.log
 coverage
 dist
-lib
 build
