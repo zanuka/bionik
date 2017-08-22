@@ -1,7 +1,7 @@
 {
-  "name": "bionic",
+  "name": "bionik",
   "version": "0.0.1",
-  "description": "Steve Austin needs an admin app, pronto.",
+  "description": "explorations in koa.js",
   "main": "app.js",
   "scripts": {
     "hello": "node --harmony hello.js",
@@ -9,10 +9,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zanuka/bionic.git"
+    "url": "git+https://github.com/mdelucchi/bionik.git"
   },
   "keywords": [
-    "bionic",
+    "bionik",
     "koa",
     "admin",
     "app",
@@ -21,9 +21,9 @@
   "author": "Mike Delucchi",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/zanuka/bionic/issues"
+    "url": "https://github.com/mdelucchi/bionik/issues"
   },
-  "homepage": "https://github.com/zanuka/bionic#readme",
+  "homepage": "https://github.com/mdelucchi/bionik#readme",
   "dependencies": {
     "babel-register": "6.26.0",
     "co-body": "5.1.1",
